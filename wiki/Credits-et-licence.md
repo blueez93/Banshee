@@ -12,8 +12,10 @@ n'est pas un produit officiel de Mojang ou Microsoft.
 ## Visuels
 
 Les femmes, leurs textures et les modèles de Matriarche sont des assets du
-projet. Les images de la galerie sont de vraies captures Minecraft de cette
-version : les personnages sont placés et les caméras choisies pour la présentation.
+projet. Les images de la galerie sont de vraies captures Minecraft. Les portraits
+et cryptes montrent la version documentée ; les images du brouillard sont des
+archives de validation de la Phase 4A (0.7.0). Les personnages sont placés et
+les caméras choisies pour la présentation.
 Un éclairage vanilla de mise en scène peut être utilisé. Aucun shader ni
 remplacement photoréaliste des personnages n'est nécessaire à ces images.
 La crypte photographiée provient de la génération naturelle du monde de présentation.

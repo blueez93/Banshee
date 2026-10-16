@@ -1,8 +1,9 @@
 # Galerie de Horror Banshee
 
-Captures du vrai mod dans Minecraft Java 1.21.1, sans shaders, à partir de la
-version 0.11.1. Les scènes sont composées pour montrer clairement les modèles ;
-elles ne représentent pas des probabilités de rencontre.
+Captures du vrai mod dans Minecraft Java 1.21.1, sans shaders. Les portraits
+et les cryptes montrent la version 0.11.1 ; la section brouillard reprend les
+captures de validation de la Phase 4A (0.7.0). Les scènes composées ne
+représentent pas des probabilités de rencontre.
 
 ## Visuels de présentation à réutiliser
 
@@ -11,10 +12,37 @@ elles ne représentent pas des probabilités de rencontre.
 - [Bannière bilingue, 1920×640](../artwork/banner-1920x640.png)
 - [Couverture carrée, 1024×1024](../artwork/cover-square-1024.png)
 - [Présentation des reliques, 1600×900](../artwork/reliques-1600x900.png)
+- [Comparatif du brouillard, 1920×580](../artwork/brouillard-comparatif-1920x580.png)
 
 Les captures originales en PNG sont disponibles dans le dossier
 [screenshots](../screenshots/). Les images affichées ci-dessous sont les copies
 WebP allégées pour la lecture du wiki.
+
+## Le brouillard des forêts hantées
+
+Le mod ajoute une atmosphère hantée à certaines grandes taïgas vanilla.
+Il ne s'agit pas d'un nouveau biome nommé « Banshee » : le brouillard apparaît
+progressivement dans les zones concernées.
+
+![Trois étapes du brouillard](../media/brouillard-comparatif.webp)
+
+Captures natives de validation de la Phase 4A (0.7.0), même point de vue,
+sans shaders ni ajout de brume en retouche. Les originaux conservent leur
+résolution **1280×800**.
+
+### Avant l'apparition
+![Forêt avant la brume](../media/12-forest-before.webp)
+[Original PNG](../forest-screenshots/12-forest-before.png)
+
+### Apparition progressive
+![Brouillard progressif](../media/13-forest-progressive.webp)
+[Original PNG](../forest-screenshots/13-forest-progressive.png)
+
+### Brouillard dense
+![Brouillard dense](../media/14-forest-dense.webp)
+[Original PNG](../forest-screenshots/14-forest-dense.png)
+
+[Fonctionnement des forêts hantées](Forets-hantees.md)
 
 ## Une présence dans la forêt
 ![Forêt](../media/01-haunted-forest.webp)

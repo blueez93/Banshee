@@ -1,6 +1,10 @@
 # Les forêts hantées
 
-![Atmosphère forestière](../media/01-haunted-forest.webp)
+![Progression réelle du brouillard](../media/brouillard-comparatif.webp)
+
+De gauche à droite : forêt sans brume, apparition progressive, brouillard dense.
+Ces captures de validation ont été réalisées pendant la Phase 4A (0.7.0),
+sans shaders. [Voir les captures originales](Galerie.md#le-brouillard-des-forêts-hantées).
 
 Certaines grandes taïgas vanilla reçoivent une atmosphère hantée : la brume se
 renforce progressivement, la visibilité diminue et de rares voix se font entendre.
